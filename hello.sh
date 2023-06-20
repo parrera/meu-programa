@@ -1,4 +1,5 @@
 #!/bin/bash
 
-A=10
+A=1
+B=2
 echo "Hello World!"
